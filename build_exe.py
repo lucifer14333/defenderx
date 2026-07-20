@@ -103,12 +103,12 @@ def build():
     if os.path.exists(exe_path):
         size_mb = os.path.getsize(exe_path) / (1024 * 1024)
         print(f"\n{'=' * 50}")
-        print(f"  ✅ Build successful!")
+        print(f"  [SUCCESS] Build successful!")
         print(f"  EXE: {exe_path}")
         print(f"  Size: {size_mb:.1f} MB")
         print(f"{'=' * 50}")
     else:
-        print("\n❌ Build failed — EXE not found")
+        print("\n[ERROR] Build failed — EXE not found")
 
 
 if __name__ == '__main__':

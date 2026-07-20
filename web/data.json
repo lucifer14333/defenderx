@@ -522,7 +522,7 @@
   {
     "user": "BHW0458",
     "threat_score": 0.0,
-    "threat_level": NaN,
+    "threat_level": "NaN",
     "is_anomaly": 0,
     "role": "ProductionLineWorker",
     "department": "3 - Assembly",
