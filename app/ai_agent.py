@@ -1,7 +1,4 @@
-"""
-DefendX — AI Security Agent
-Utilizes Hugging Face InferenceClient with Gemma-3-IT model to analyze threats.
-"""
+BY R.DINESH
 
 import json
 import threading
