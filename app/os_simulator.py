@@ -1,6 +1,5 @@
 """
-DefendX — Simulated OS Window
-Provides interactive simulated Windows and Linux desktops for simulated users.
+DHIVAKAR R
 """
 
 import tkinter as tk
