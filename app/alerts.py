@@ -1,6 +1,5 @@
 """
-DefendX — Alert Management System
-Manages threat alerts with severity levels, history, and notification support.
+Yokesh
 """
 
 from datetime import datetime
