@@ -1,6 +1,5 @@
 """
-DefendX — Report Generator
-Generates PDF threat assessment reports with charts and user profiles.
+Yokesh
 """
 
 import os
