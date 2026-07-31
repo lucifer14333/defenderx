@@ -1,7 +1,5 @@
 """
-DefendX — Threat Analysis Engine
-Loads trained AI models and scores users for insider threat risk.
-Provides explainable threat breakdowns.
+ANMATH RAJ S
 """
 
 import pandas as pd
