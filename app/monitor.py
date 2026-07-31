@@ -1,9 +1,5 @@
 """
-DefendX — System Monitor
-Monitors local system for insider threat indicators:
-- Google Chrome browsing history (shadow AI detection)
-- VS Code workspace activity
-- Local storage / USB device monitoring
+ANMATH RAJ S
 """
 
 import os
