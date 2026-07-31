@@ -1,6 +1,5 @@
 """
-DefendX Application — UI Theme & Styling
-Centralized dark theme configuration for the Tkinter GUI.
+Dhivakar R
 """
 
 # ═══════════════════════════════════════════════════════════════
