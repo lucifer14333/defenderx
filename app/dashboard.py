@@ -1,7 +1,5 @@
 """
-DefendX — Main Dashboard
-Threat overview dashboard with real-time charts, risk scores,
-top threats list, and activity monitoring panels.
+Dhivakar R
 """
 
 import tkinter as tk
