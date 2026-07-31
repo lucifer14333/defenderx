@@ -1,7 +1,5 @@
 """
-DefendX — Main Application Shell
-Tkinter-based desktop application with sidebar navigation,
-dark theme, and multi-screen layout.
+ANMATH RAJ S
 """
 
 import tkinter as tk
